@@ -1,0 +1,12 @@
+user@nn1:~/hadoop/conf$ echo $PATH
+/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games
+user@nn1:~/hadoop/conf$ 
+
+
+
+145/1, A.C.Road,
+P.O. Khagra Murshidabad, Berhampore, 
+Kolkata,W.B,
+Pincode:742103
+
+
